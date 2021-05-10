@@ -1,0 +1,98 @@
+html{
+    text-align:center;
+    scroll-behavior:smooth;
+}
+.mynav{
+    margin-bottom:0px !important;
+}
+#About{
+    height:800px;
+    background:linear-gradient(Cyan,Grey);
+    width:100%;
+    display:table;
+}
+header{
+    position:fixed;
+    top:0px;
+    right:0px;
+    left:0px;
+    height:0px;
+    background:#333333;
+}
+.underline{
+    height:6px;
+    width:70px;
+    background-color:black;
+    margin:5px auto;
+}
+#MReyansh{
+    margin-bottom:50px;
+    border-radius:50%;
+    width:175px; 
+    height:175px;
+}
+#name{
+    font-family: 'Erica One', cursive;
+    font-size:60px;
+}
+h2{
+    font-family:cursive;
+}
+#Doraemon{
+    height:300px;
+    margin-top:10px;
+}
+#menu{
+    list-style:none;
+    float:right;
+}
+.menu_item{
+    float:left;
+    padding-right:10px;
+    font-size:20px;
+    font-family:fantasy;
+    border-right:1px black solid;
+    margin-left:5px;
+}
+#about-doraemon{
+    font-size:20px;
+}
+#about-div{
+    vertical-align:middle;
+    display:table-cell;
+}
+a:hover{
+   color:red;
+   cursor:alias;
+}
+.my_work{
+    font-size:20px;
+}
+#aa{
+    margin-top:20px;
+}
+#reviews{
+    width:500px;
+    height:350px;
+}
+#abdul_kalam{
+    transition:transform 0.2s;
+    height:200px;
+    width:300px;
+}
+#abdul_kalam:hover{
+    transform:scale(0.9);
+}
+#Li_Name{
+    font-family: 'Erica One', cursive;
+    font-size:20px;
+    float:left;
+    margin-right:40px;
+}
+footer{
+    padding:25px;
+}
+h1{
+    font-family: 'Erica One', cursive;
+    font-size:50px;
+}
